@@ -16,19 +16,15 @@ To write a Python program to find the minimum between three integer numbers usin
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
-# Write your code here
-
-num1 = int(input())
-num2 = int(input())
-num3 = int(input())
-
-min_num = num1 if (num1 <= num2 and num1 <= num3) else num2 if (num2 <= num1 and num2 <= num3) else num3
-
-print(f"The minimum of {num1}, {num2}, {num3} is {min_num}")
+# Reg.No-212223060280
+# Name- SURYA P
+a=int(input())
+b=int(input())
+print(a&b)
+print(a|b)
 ```
-
 ## OUTPUT
+<img width="522" height="392" alt="1e" src="https://github.com/user-attachments/assets/8aa4c9a9-6b72-4f54-ba1b-d2279a1fddab" />
 
 ## RESULT
+Thus, the python program to perform bitwise and or is executed successfully.
